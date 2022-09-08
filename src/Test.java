@@ -134,6 +134,6 @@ public class Test {
                 System.out.println("третье число наибольшие и оно равно " +free);
 
         } else
-            System.out.println("все числа равны");
+            System.out.print("все числа равны");
     }
 }
